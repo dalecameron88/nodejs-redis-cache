@@ -1,2 +1,2 @@
 # nodejs-redis-cache
-A basic js cache implementation using redis or any generic caching framework
+A node js cache layer implementation using redis as middleware replaceable with any generic caching framework
